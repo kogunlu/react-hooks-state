@@ -11,3 +11,5 @@ function Counter() {
 }
 
 export default Counter;
+
+// Practiced
